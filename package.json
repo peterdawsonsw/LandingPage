@@ -1,0 +1,17 @@
+{
+  "name": "LandingPage",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@chakra-ui/vue": "^0.8.0",
+    "emotion": "^11.0.0",
+    "gridsome": "^0.7.0"
+  },
+  "devDependencies": {
+    "@emotion/css": "^11.1.3"
+  }
+}
