@@ -5,7 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: "My App",
+  siteName: "LandingPage",
   siteDescription: "A Gridsome starter with Chakra-UI",
   plugins: [],
   icon: "./src/assets/images/favicon.png",
